@@ -1,4 +1,6 @@
-# LicenseProject
+# This was my license project (an app and a device, video of it working is also uploaded)
+
+For this project I received a grade of 9.40
  
  //English//
 Smart Auto Multimeter: measuring device
